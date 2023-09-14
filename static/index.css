@@ -687,7 +687,7 @@ background-color:deepskyblue;
         font-size: 50px;
     }
     .welcome-component-name{
-        font-size: 40px;
+        font-size: 20px;
     
         
     }
@@ -799,10 +799,7 @@ background-color:deepskyblue;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
   }
-  .skillname{
-    font-size: 40px;
-    line-height: 0px;
-  }
+  
 
 
 
