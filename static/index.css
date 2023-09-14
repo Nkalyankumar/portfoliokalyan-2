@@ -100,7 +100,7 @@ body{
     
     background-image: linear-gradient(to right top, #121919, #1d3839, #245b5c, #278081, #26a7a8, #2aa9aa, #2eabab, #31adad, #35898a, #336768, #2d4747, #242929);
     text-shadow: -6px 2px 4px rgba(186,41,169,1);
-    background-image: url(./static/homebg.png);
+    background-image: url("./static/homebg.png");
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 
