@@ -177,7 +177,7 @@ body{
     width:90%;
     margin-left: auto;
     margin-right: auto;
-    background-image: url(./static/homebg.png);
+    background-image: url('./static/homebg.png');
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 
