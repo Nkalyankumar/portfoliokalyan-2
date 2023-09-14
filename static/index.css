@@ -177,7 +177,7 @@ body{
     width:90%;
     margin-left: auto;
     margin-right: auto;
-    background-image: url('./static/homebg.png');
+    background-image: url('.homebg.png');
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 
@@ -238,7 +238,7 @@ body{
     grid-template-columns: repeat(2, 1fr);
     row-gap: 15px;
     column-gap: 30px;
-    background-image: url(./static/homebg.png);
+    background-image: url("homebg.png");
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 
@@ -415,34 +415,34 @@ body{
 
   
   .video-section1 {
-    background-image: url("./static/AIinDatascience.png");
+    background-image: url("AIinDatascience.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 
 .video-section2 {
-    background-image: url("./static/trendsinDS.png");
+    background-image: url("trendsinDS.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
   
  
 .video-section3 {
-    background-image: url("./static/git.png");
+    background-image: url("git.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 
 .video-section4 {
-    background-image: url("./static/dstrading.png");
+    background-image: url("dstrading.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
   .video-section5 {
-    background-image: url("./static/csiimg.png");
+    background-image: url("csiimg.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -752,7 +752,7 @@ background-color:deepskyblue;
     width:90%;
     margin-left: auto;
     margin-right: auto;
-    background-image: url(./static/homebg.png);
+    background-image: url("homebg.png");
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 
@@ -813,7 +813,7 @@ background-color:deepskyblue;
     grid-template-columns: repeat(1, 1fr);
     row-gap: 15px;
     column-gap: 30px;
-    background-image: url(./static/homebg.png);
+    background-image: url("homebg.png");
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 
